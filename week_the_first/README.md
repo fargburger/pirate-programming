@@ -20,5 +20,5 @@ in MUTINY, when the click even is invoked, instead of printing some lame thing, 
 5. examine the source code, write a comment 
  ```# THIS IS A COMMENT```
    in front of every line of code explaining what the next line might be for
-6. rewrit
+6. copy and rewrite royal_navy.py as muninty.py (on click event will bring down the british flag and raise the pirate flag)
    
